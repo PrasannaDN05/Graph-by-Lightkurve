@@ -1,0 +1,8 @@
+## ▶️ Usage
+
+```bash
+pip install lightkurve numpy matplotlib
+python graph.py
+```
+
+Modify the target by changing the `TIC_ID` and `SECTOR` values in `graph.py`.
